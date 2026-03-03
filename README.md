@@ -130,8 +130,7 @@ project-folder
  ┃ ┗ lead_model.py
  ┣ PowerBI
  ┃ ┗ dashboard preview
- ┣ File
- ┃ ┗ Sample_file.csv
+ ┣  Sample_file.csv
  ┣ README.md
 ```
 
