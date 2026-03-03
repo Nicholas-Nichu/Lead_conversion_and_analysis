@@ -127,7 +127,7 @@ project-folder
  ┣ SQL
  ┃ ┗ master_table.sql
  ┣ Python
- ┃ ┗ lead_model.ipynb
+ ┃ ┗ lead_model.py
  ┣ PowerBI
  ┃ ┗ dashboard preview
  ┣ File
