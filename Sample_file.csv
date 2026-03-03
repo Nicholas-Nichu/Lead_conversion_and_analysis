@@ -1,0 +1,5 @@
+Lead,Created Date,Customer Name,User,Status,Channel,Sub Channel,Last Note,Site-Visit Done Date,Site Visit Count,Priority,Reason,Key_Flat_Number,Applicant DOB,Applicant Occupation,Name of the Organisation,Booking Date,Converted,Days_to_book,Days_to_visit,Age
+1001,15-09-2025,A,John,Converted,Google,Website_Home,Booked C -316,15-09-2025,4,Positive,,C-316,27-08-1956,CEO,Apple,26-01-2026,1,133,0,69
+1234,15-09-2025,B,Andrews,Converted,Facebook,Facebook_Sept25_Campaign,Confirmed for A-016,25-01-2026,4,Positive,,A-016,16-12-1983,AVP,Amazon,15-02-2026,1,21,132,42
+1900,05-10-2025,C,Tom,Converted,Instagram,Instagram_Sustainability_Ad,Booked B-420,01-01-2026,2,Positive,,B-420,22-02-1992,MDE,Pepsi,03-01-2026,1,2,88,34
+1220,02-09-2025,D,Andrews,Disqualified,Google,Google_Ads,Location not suitable,,,,Location,,,,,,0,,,
