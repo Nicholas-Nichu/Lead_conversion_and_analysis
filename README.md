@@ -129,7 +129,9 @@ project-folder
  ┣ Python
  ┃ ┗ lead_model.ipynb
  ┣ PowerBI
- ┃ ┗ dashboard.pbix
+ ┃ ┗ dashboard preview
+ ┣ File
+ ┃ ┗ Sample_file.csv
  ┣ README.md
 ```
 
