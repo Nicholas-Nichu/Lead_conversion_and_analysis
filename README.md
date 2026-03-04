@@ -96,14 +96,6 @@ Each lead is assigned a conversion probability score:
 
 ---
 
-## Key Insights
-
-* Leads with higher site visit counts show significantly higher conversion rates
-* Faster engagement (lower Days_to_Visit) improves likelihood of booking
-* Customer interaction behavior is a strong indicator of conversion
-
----
-
 ## Tools and Technologies
 
 * SQL (PostgreSQL) for data extraction and transformation
@@ -128,8 +120,6 @@ project-folder
  ┃ ┗ master_table.sql
  ┣ Python
  ┃ ┗ lead_model.py
- ┣ PowerBI
- ┃ ┗ dashboard preview
  ┣  Sample_file.csv
  ┣ README.md
 ```
